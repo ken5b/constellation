@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{870F2783-1F58-55D1-7DAE-B57670291F94}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DrawConstellation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DrawConstellation.cs" Line="158" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="constellation" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DrawConstellation.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bc5fde9d-080d-4945-9625-194d2d1c7cfa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
